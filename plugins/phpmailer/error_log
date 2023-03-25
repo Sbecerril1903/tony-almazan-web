@@ -1,0 +1,17 @@
+[18-Nov-2018 20:47:22 America/Mexico_City] PHP Fatal error:  Class 'PHPMailer' not found in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 8
+[18-Nov-2018 20:48:15 America/Mexico_City] PHP Fatal error:  Class 'PHPMailer' not found in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 8
+[18-Nov-2018 20:49:21 America/Mexico_City] PHP Warning:  require_once(/home/blupboxc/public_html/bp1/plugins/phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 7
+[18-Nov-2018 20:49:21 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '/home/blupboxc/public_html/bp1/plugins/phpmailer/PHPMailer.php' (include_path='.:/opt/php56/lib/php') in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 7
+[18-Nov-2018 20:50:11 America/Mexico_City] PHP Warning:  require_once(/home/blupboxc/public_html/bp1/plugins/phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 7
+[18-Nov-2018 20:50:11 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '/home/blupboxc/public_html/bp1/plugins/phpmailer/PHPMailer.php' (include_path='.:/opt/php56/lib/php') in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 7
+[18-Nov-2018 20:50:26 America/Mexico_City] PHP Fatal error:  Class 'PHPMailer' not found in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 8
+[18-Nov-2018 20:51:10 America/Mexico_City] PHP Fatal error:  Class 'PHPMailer' not found in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 8
+[18-Nov-2018 20:51:12 America/Mexico_City] PHP Fatal error:  Class 'PHPMailer' not found in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 8
+[18-Nov-2018 20:51:16 America/Mexico_City] PHP Fatal error:  Class 'PHPMailer' not found in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 8
+[18-Nov-2018 20:52:44 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 10
+[18-Nov-2018 20:52:45 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 10
+[18-Nov-2018 20:56:49 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 10
+[18-Nov-2018 20:58:08 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 10
+[18-Nov-2018 20:58:10 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 10
+[18-Nov-2018 20:58:27 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 10
+[18-Nov-2018 20:58:31 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/blupboxc/public_html/bp1/plugins/phpmailer/index.php on line 10
